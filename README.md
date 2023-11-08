@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Subodh2002
 - 👀 I’m interested in Java programming
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking opportunity to start my career and gain knowledge, learn new things to upgrade myself and get top position in reputed comppany.
+- 💞️ I’m looking opportunity to start my career and gain knowledge, learn new things to upgrade myself and get top position in reputed company.
 - 📫 You can reach me through LinkedIn https://www.linkedin.com/in/subodh-sanjay-yadav-404962177/ or ssysubodh129@gmail.com
 
 <!---
